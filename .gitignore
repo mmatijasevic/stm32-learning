@@ -1,0 +1,24 @@
+# STM32CubeIDE build files
+/Debug/
+/Release/
+/Makefile
+/STM32CubeIDE_workspace/
+
+# Backup files
+*~ 
+*.bak
+*.swp
+*.tmp
+
+# Binaries
+*.elf
+*.bin
+*.hex
+*.axf
+*.map
+*.o
+*.d
+
+# Other system files
+.DS_Store
+Thumbs.db
