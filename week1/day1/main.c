@@ -1,5 +1,5 @@
 
-int led_state = 0;
+int led_state = 1; // hotfix
 
 
 void LED_Toggle(void)
