@@ -9,7 +9,7 @@ void LED_Toggle(void)
 
 int dummy_function(void)
 {
-    return 42;
+    return 43; // hotfix value
 }
 
 int can_init(void)
