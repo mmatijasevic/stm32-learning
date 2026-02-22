@@ -6,3 +6,8 @@ void LED_Toggle(void)
 {
     led_state = !led_state;
 }
+
+int dummy_function(void)
+{
+    return 42;
+}
