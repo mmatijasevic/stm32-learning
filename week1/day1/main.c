@@ -11,3 +11,8 @@ int dummy_function(void)
 {
     return 42;
 }
+
+int can_init(void)
+{
+    return 1;
+}
