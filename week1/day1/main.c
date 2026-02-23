@@ -1,6 +1,6 @@
 
 int led_state = 30; // compromise
-
+int test_bug = 999;
 
 void LED_Toggle(void)
 {
