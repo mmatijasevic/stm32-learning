@@ -1,5 +1,5 @@
 
-int led_state = 10; // UART developer changed this
+int led_state = 30; // compromise
 
 
 void LED_Toggle(void)
