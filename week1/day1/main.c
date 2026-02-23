@@ -15,4 +15,4 @@ int dummy_function(void)
 int can_init(void)
 {
     return 1;
-}
+}// local change
