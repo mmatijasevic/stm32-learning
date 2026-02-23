@@ -1,5 +1,5 @@
 
-int led_state = 1; // hotfix
+int led_state = 10; // UART developer changed this
 
 
 void LED_Toggle(void)
